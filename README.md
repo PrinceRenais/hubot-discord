@@ -26,6 +26,8 @@ Environment Variable | Description | Example
 The OAuth token can be created for an existing bot by navigating to [here, the discord developer application dashboard](https://discordapp.com/developers/applications/me) and creating a new application.
 After creating the application, you will need to create a bot application and show then copy the bot token.
 
+To get it into a server, you may need to follow the advice in this short guide: https://stackoverflow.com/questions/37689289/how-to-join-a-server
+
 ## Launching your hubot
     
     cd /path/to/mybot
